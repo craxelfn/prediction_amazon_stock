@@ -1,0 +1,25 @@
+# Core Python Data Science and Machine Learning Libraries
+pip install numpy
+pip install pandas
+pip install scikit-learn
+
+# Data Visualization Libraries
+pip install matplotlib
+pip install seaborn
+
+# Financial Data Retrieval
+pip install yfinance
+
+# Deep Learning and Neural Networks
+pip install tensorflow
+pip install keras
+
+# Optional but recommended for complete setup
+pip install scipy
+pip install plotly
+
+# Jupyter Notebook (if you want to run in notebook environment)
+pip install jupyter
+
+# To verify installations
+pip list
